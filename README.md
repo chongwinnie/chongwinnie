@@ -88,7 +88,7 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=chongwinnie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21600"
+  src="https://github-readme-stats.vercel.app/api?username=chongwinnie&show_icons=true&theme=tokyonight&hide_border=false"
   alt="Chong Win Nie's GitHub Statistics"
   height="180"
 />
@@ -96,7 +96,7 @@
 <br><br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chongwinnie&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=21600"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chongwinnie&layout=compact&theme=tokyonight&langs_count=10"
   alt="Chong Win Nie's Most Used Languages"
   height="180"
 />
