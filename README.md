@@ -1,3 +1,13 @@
+<!-- 🌤️ SKY-BLUE WAVING HEADER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0369A1,50:38BDF8,100:BAE6FD&amp;height=230&amp;section=header&amp;text=CHONG%20WIN%20NIE&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=CS%20Graduate%20%7C%20Infinite%20Curiosity%20%7C%20Endless%20Possibilities&amp;descSize=17&amp;descAlignY=59" width="100%" alt="Sky-blue Chong Win Nie profile banner" />
+
+<!-- 💻 ANIMATED BOOT SEQUENCE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2600&amp;pause=1000&amp;color=0284C7&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=65&amp;lines=%3E+Booting+Win+Nie%27s+Universe...;%3E+Initializing+curiosity.exe...;%3E+Loading+creativity...+100%25;%3E+Compiling+dreams+into+reality...;%3E+Debugging+life...+Still+in+progress+%3A%29;%3E+System+ready.+Welcome+aboard!" alt="Animated booting and welcome messages" />
+
+</div>
+
 <div align="center">
 
 # Hello World! 👋
@@ -88,7 +98,7 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=chongwinnie&show_icons=true&theme=tokyonight&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api?username=chongwinnie&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false"
   alt="Chong Win Nie's GitHub Statistics"
   height="180"
 />
@@ -96,7 +106,7 @@
 <br><br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chongwinnie&layout=compact&theme=tokyonight&langs_count=10"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chongwinnie&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=10"
   alt="Chong Win Nie's Most Used Languages"
   height="180"
 />
@@ -116,5 +126,12 @@
 ### ✨ Thanks for visiting!
 
 *May your code compile, your tests pass, and your bugs remain undocumented.* 🐛
+
+💙 **Keep exploring. Keep learning. Keep debugging.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=1300&amp;color=0284C7&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=50&amp;lines=%3E+Connection+closed.+See+you+in+the+next+commit!;%3E+Stay+curious.+Keep+building.+See+you+soon!" alt="Animated farewell message" />
+
+<!-- 🌊 MATCHING SKY-BLUE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0369A1,50:38BDF8,100:BAE6FD&amp;height=135&amp;section=footer&amp;animation=fadeIn" width="100%" alt="Sky-blue waving footer" />
 
 </div>
